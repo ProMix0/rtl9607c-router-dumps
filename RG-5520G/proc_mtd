@@ -1,0 +1,7 @@
+dev:    size   erasesize  name
+mtd0: 000c0000 00020000 "u-boot"
+mtd1: 00020000 00020000 "factory"
+mtd2: 00020000 00020000 "u-boot-env"
+mtd3: 00020000 00020000 "u-boot-env2"
+mtd4: 07940000 00020000 "ubi"
+mtd5: 00200000 00020000 "mtdoops"
