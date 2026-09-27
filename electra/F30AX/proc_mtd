@@ -1,0 +1,6 @@
+dev:    size   erasesize  name
+mtd0: 000c0000 00020000 "u-boot"
+mtd1: 00020000 00020000 "u-boot-env"
+mtd2: 00020000 00020000 "u-boot-env2"
+mtd3: 00020000 00020000 "static_conf"
+mtd4: 07c60000 00020000 "ubi"
